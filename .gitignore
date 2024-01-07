@@ -45,3 +45,6 @@ loan-calculator/
 
 # Ignore the .gradle cache directory
 .gradle/
+
+# Ignore go.work file
+go.work
